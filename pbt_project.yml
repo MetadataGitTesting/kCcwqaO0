@@ -1,0 +1,122 @@
+name: wyatt.harris
+description: middleware
+version: 0.0.1
+author: tanseova.wptuqtun@jnmkoe1j.com
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-02-27 20:23:07'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels:
+  .prophecy/metadata/sqlmodels/model:
+    name: model
+    schema: null
+    description: null
+    author: tanseova.wptuqtun@jnmkoe1j.com
+    files:
+    - model.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2026-02-27 20:23:08'
+  .prophecy/metadata/sqlmodels/model2:
+    name: model2
+    schema: null
+    description: null
+    author: tanseova.wptuqtun@jnmkoe1j.com
+    files:
+    - model2.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2026-02-27 20:23:08'
+  .prophecy/metadata/sqlmodels/model3:
+    name: model3
+    schema: null
+    description: null
+    author: tanseova.wptuqtun@jnmkoe1j.com
+    files:
+    - model3.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2026-02-27 20:23:08'
+  .prophecy/metadata/sqlmodels/model4:
+    name: model4
+    schema: null
+    description: null
+    author: tanseova.wptuqtun@jnmkoe1j.com
+    files:
+    - model4.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2026-02-27 20:23:08'
+sqlSnapshots:
+  .prophecy/metadata/sqlsnapshots/snapshot:
+    name: snapshot
+    schema: null
+    description: null
+    author: tanseova.wptuqtun@jnmkoe1j.com
+    files:
+    - snapshot.sql
+    - sources3.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2026-02-27 20:23:08'
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: tanseova.wptuqtun@jnmkoe1j.com
+  createdAt: '2026-02-27 20:23:07'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
